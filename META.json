@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "Isono let's play baseball!",
    "author" : [
       "@ie.u-ryukyu.ac.jp>"
    ],
@@ -52,7 +52,21 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/AnaTofuZ/perl5-acme-nakajima/issues"
+      },
+      "homepage" : "https://github.com/AnaTofuZ/perl5-acme-nakajima",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/AnaTofuZ/perl5-acme-nakajima.git",
+         "web" : "https://github.com/AnaTofuZ/perl5-acme-nakajima"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:ANATOFUZ",
+   "x_contributors" : [
+      "AnaTofuZ <e155730@ie.u-ryukyu.ac.jp>"
+   ],
    "x_serialization_backend" : "JSON::PP version 2.27300"
 }

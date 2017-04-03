@@ -1,6 +1,6 @@
 # NAME
 
-Acme::Nakajima - It's new $module
+Acme::Nakajima - Isono let's play baseball!
 
 # SYNOPSIS
 
@@ -8,7 +8,8 @@ Acme::Nakajima - It's new $module
 
 # DESCRIPTION
 
-Acme::Nakajima is ...
+Acme::Nakajima is a charcter from Sazae-san.
+Sazae-san is Japanese famous animation.
 
 # LICENSE
 
